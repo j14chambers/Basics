@@ -59,7 +59,23 @@ h2 {
   font-size: 14px;
   margin: 5px;
 }
+.textbox {
+  padding: 20px 10px;
+  width: 250px;
+  font-size: 20px;
+}
+.button {
+  padding: 20px 40px;
+  margin-left: 30px;
+  color: #2f3061;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #fff;
 
+  text-transform: uppercase;
+  padding: 0.5em 2em;
+  border: 2px solid #fff;
+}
 .main-section {
   display: flex;
   align-content: space-between;
