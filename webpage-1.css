@@ -16,6 +16,11 @@ header {
 header h1 {
   float: left;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 a {
   color: #f7fff7;
@@ -26,8 +31,6 @@ ul {
   list-style: none;
   display: flex;
   justify-content: flex-end;
-
-  bottom: 0;
 }
 li {
   padding: 5px 20px;
@@ -59,14 +62,19 @@ h2 {
 
 .main-section {
   display: flex;
-  align-content: space-around;
+  align-content: space-between;
   margin: 40px;
+}
+.main-section img {
+  height: 500px;
+  width: 500px;
 }
 .image-section {
   flex: 1;
   padding: 40px;
 }
 .text-section {
+  flex: 2;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -74,8 +82,9 @@ h2 {
 
 .text-section img {
   width: 30%;
+  height: 100%;
 }
-.text-section div {
+.img-display {
   display: flex;
   align-content: space-around;
 }
