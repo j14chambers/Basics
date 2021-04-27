@@ -2,6 +2,8 @@
 
 ## Web Page 1
 
+An webpage with a navigation bar, header and body. There is no real information being used, just some dummy text.
+
 ### Colors:
 
 Mint Cream - #f7fff7
@@ -21,4 +23,9 @@ Honey Yellow - #f7b32b
 font-family: 'Antonio', sans-serif;
 
 **Paragraph, links and captions:**
+
 font-family: 'Nunito', sans-serif;
+
+## Notes:
+
+The hardest thing was remembering how to use flexbox. It has been awhile since I last used it. Even then it was hard to remember how the layouts work.
