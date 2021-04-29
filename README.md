@@ -29,3 +29,17 @@ font-family: 'Nunito', sans-serif;
 ## Notes:
 
 The hardest thing was remembering how to use flexbox. It has been awhile since I last used it. Even then it was hard to remember how the layouts work.
+
+## Web Page 2: Flexbox
+
+### Colors:
+
+Gray Web - #7d7c7a
+
+White
+
+Black
+
+## Notes:
+
+Same font-family from webpage 1; Followed a tutorial before starting this web page. There were still some problems with the navigation bar, but everything else was good. There are more notes in Figma on Flexbox.
