@@ -24,7 +24,6 @@ h2 {
 .flex-container,
 .header-box {
   display: flex;
-  flex-wrap: wrap;
 }
 
 nav {
