@@ -1,0 +1,19 @@
+* {
+  font-size: 28px;
+  padding: 5px;
+}
+.parent {
+  background-color: green;
+  padding: 10px;
+}
+.child-one {
+  background-color: yellow;
+  position: relative;
+  left: 10px;
+}
+.child-two {
+  background-color: teal;
+}
+.child-three {
+  background-color: tomato;
+}
