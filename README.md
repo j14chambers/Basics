@@ -1,6 +1,6 @@
 # Basics
 
-## Web Page 1
+## 1. Basic Webpage Layout
 
 An webpage with a navigation bar, header and body. There is no real information being used, just some dummy text.
 
@@ -30,7 +30,7 @@ font-family: 'Nunito', sans-serif;
 
 The hardest thing was remembering how to use flexbox. It has been awhile since I last used it. Even then it was hard to remember how the layouts work.
 
-## Web Page 2: Flexbox
+## 2. Flexbox
 
 ### Colors:
 
@@ -43,3 +43,17 @@ Black
 ## Notes:
 
 Same font-family from webpage 1; Followed a tutorial before starting this web page. There were still some problems with the navigation bar, but everything else was good. There are more notes in Figma on Flexbox.
+
+## 3. Postioning
+
+Learning how to use positioning outside of flexbox and css grid with relative, static, sticky, and fixed.
+
+## Notes:
+
+Random colors for background-color.
+
+I don't see how to make a webpage out of this. Other than sticky and fixed, the others don't really serve a purpose when using flex box.
+
+## 4. Flexbox with Positioning
+
+Making an webpage that has a different layout. Maybe having some items float to the left or right on their own.

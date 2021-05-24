@@ -6,10 +6,12 @@
   background-color: green;
   padding: 10px;
 }
+.child {
+  width: 100px;
+}
 .child-one {
   background-color: yellow;
-  position: relative;
-  left: 10px;
+  position: absolute;
 }
 .child-two {
   background-color: teal;
