@@ -57,3 +57,7 @@ I don't see how to make a webpage out of this. Other than sticky and fixed, the 
 ## 4. Flexbox with Positioning
 
 Making an webpage that has a different layout. Maybe having some items float to the left or right on their own.
+
+## 5. Basic Layouts
+
+Take everything so far and make info cards for how to use CSS. Also can be CSS and HTML tips
