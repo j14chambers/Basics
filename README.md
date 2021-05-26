@@ -61,3 +61,6 @@ Making an webpage that has a different layout. Maybe having some items float to 
 ## 5. Basic Layouts
 
 Take everything so far and make info cards for how to use CSS. Also can be CSS and HTML tips
+
+- When the CSS is finished for the header and footer, add to all pages.
+- Fix the CSS for the Header and links
