@@ -1,0 +1,9 @@
+.flex-container {
+  display: flex;
+}
+.img-example {
+  flex: 1;
+}
+.example {
+  flex: 1;
+}
