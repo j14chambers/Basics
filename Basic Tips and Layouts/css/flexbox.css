@@ -1,0 +1,28 @@
+.flex-container {
+  display: flex;
+}
+.flex-item {
+  background-color: #1594db;
+  color: white;
+  height: 300px;
+  width: 300px;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+}
+.flex-order .box-1 {
+  order: 2;
+}
+.flex-order .box-2 {
+  order: 3;
+}
+.flex-order .box-3 {
+  order: 1;
+}
+.flex .box-2 {
+  flex: 2;
+}
+.flex .box-1,
+.flex .box-3 {
+  flex: 1;
+}

@@ -4,8 +4,68 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="home.css" />
+    <link rel="stylesheet" href="css/flexbox.css" />
     <title>Flex box</title>
   </head>
-  <body></body>
+  <body>
+    <section class="display-flex">
+      <p>
+        This is the basic layout for flex box. When you add
+        <b>display: flex;</b> to the element <b>.flex-container</b> it takes the
+        3 boxes and display them horizontal.
+      </p>
+      <p>
+        Now <b>.flex-item</b> has some CSS properties that helps us see how the
+        boxes are displayed.
+      </p>
+      <ul>
+        <li>background-color: #1594db</li>
+        <li>height and width: 300px</li>
+        <li>margin: 10px</li>
+        <li>padding: 15px</li>
+      </ul>
+      <div class="flex-container">
+        <div class="flex-item box-1">
+          <h3>Box 1</h3>
+        </div>
+        <div class="flex-item box-2">
+          <h3>Box 2</h3>
+        </div>
+        <div class="flex-item box-3">
+          <h3>Box 3</h3>
+        </div>
+      </div>
+    </section>
+    <section class="flex-order">
+      <h2>Flex Order</h2>
+      <p>The order of the flex items can be changed using <b>order</b></p>
+      <div class="flex-container">
+        <div class="flex-item box-1">
+          <h3>Box 1</h3>
+        </div>
+        <div class="flex-item box-2">
+          <h3>Box 2</h3>
+        </div>
+        <div class="flex-item box-3">
+          <h3>Box 3</h3>
+        </div>
+      </div>
+    </section>
+    <section class="flex">
+        <h2>Flex</h2>
+      <p>The size of a flex item can be changed by using <b>flex</b>.</p>
+      <div class="flex-container">
+        <div class="flex-item box-1">
+          <h3>Box 1</h3>
+        </div>
+        <div class="flex-item box-2">
+          <h3>Box 2</h3>
+        </div>
+        <div class="flex-item box-3">
+          <h3>Box 3</h3>
+        </div>
+      </div>
+    </section>
+    </section>
+  </body>
 </html>
